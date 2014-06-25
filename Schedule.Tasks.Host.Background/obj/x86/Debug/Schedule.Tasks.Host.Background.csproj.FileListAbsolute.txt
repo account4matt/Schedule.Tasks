@@ -1,0 +1,1 @@
+E:\workspace\SS_SaaStore\trunk\Schedule.Tasks\Schedule.Tasks.Host.Background\bin\Debug\Schedule.Tasks.Host.Background.exe.config
